@@ -1,0 +1,3 @@
+domain=server.acme.com:9443
+user=isadmin
+password={iisenc}MASKEDPWD==
